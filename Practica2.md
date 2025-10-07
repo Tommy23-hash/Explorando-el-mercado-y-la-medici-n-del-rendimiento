@@ -1,8 +1,8 @@
-#Práctica 2 en común 
+# Práctica 2 en común 
 
-#Parte 1: El Cuadrante Mágico de Gartner 
+# Parte 1: El Cuadrante Mágico de Gartner 
 
-##1. Definición y utilidad 
+## 1. Definición y utilidad 
 
 El Cuadrante Mágico de Gartner es una herramienta de análisis estratégico que representa gráficamente el posicionamiento de los principales proveedores de tecnología dentro de un mercado específico. Su objetivo es ofrecer una visión comparativa de la capacidad de ejecución y la integridad de visión de cada empresa, ayudando a las organizaciones a tomar decisiones informadas sobre la selección de soluciones tecnológicas. 
 
@@ -14,7 +14,7 @@ El modelo se estructura en cuatro cuadrantes principales: líderes, retadores, v
 
 Las organizaciones clasificadas como líderes destacan por su sólida capacidad de ejecución y visión integral del mercado. Los retadores cuentan con una gran capacidad operativa, pero menor orientación innovadora. Los visionarios anticipan tendencias, aunque carecen de una base operativa tan robusta. Finalmente, los jugadores de nicho se especializan en áreas muy concretas, pero sin la amplitud estratégica o capacidad de ejecución de los líderes. 
 
-##2. Aplicación al SGE 
+## 2. Aplicación al SGE 
 
 En el contexto de los sistemas de gestión empresarial (SGE o ERP), Gartner publica anualmente un Cuadrante Mágico que analiza los principales proveedores del mercado. En los informes más recientes, empresas como Microsoft, SAP, Oracle y Salesforce aparecen consistentemente en el cuadrante de líderes debido a su capacidad de ofrecer soluciones completas, escalables e innovadoras. Estas compañías combinan una ejecución sólida con una visión clara del futuro del mercado digital y la nube. 
 
@@ -22,9 +22,9 @@ Por ejemplo, SAP destaca por su enfoque integral hacia el ERP en la nube, mientr
 
 <img width="713" height="734" alt="image" src="https://github.com/user-attachments/assets/c964c507-cb8f-4fb5-b709-64bbe0706b12" />
 
-#Parte 2: Indicadores Clave de Rendimiento (KPI) 
+# Parte 2: Indicadores Clave de Rendimiento (KPI) 
 
-##3. Definición y función 
+## 3. Definición y función 
 
 Los Indicadores Clave de Rendimiento (KPI, por sus siglas en inglés) son métricas cuantitativas diseñadas para medir el grado de cumplimiento de los objetivos estratégicos de una organización. Permiten evaluar la eficacia de los procesos, detectar áreas de mejora y apoyar la toma de decisiones basadas en datos. 
 
@@ -44,9 +44,9 @@ En el ámbito de los sistemas ERP, los KPI son esenciales para monitorear proces
 
   • Inventario en proceso (WIP): analiza la cantidad de productos en producción en un momento determinado. 
 
-#Parte 3: Contraste de fuentes 
+# Parte 3: Contraste de fuentes 
 
-##4. Justificación de la información y comparación de fuentes 
+## 4. Justificación de la información y comparación de fuentes 
 
 Las fuentes utilizadas provienen de sitios oficiales, empresas tecnológicas reconocidas y plataformas especializadas en análisis empresarial. Se priorizaron documentos actualizados, emitidos por organizaciones con autoridad en el sector tecnológico. 
 
@@ -56,7 +56,7 @@ A continuación, se justifica la fiabilidad y se realiza la comparación de fuen
 
   • Indicadores Clave de Rendimiento (KPI): Las fuentes de Asana (2024) y MrPeasy (2024) coinciden en definir los KPI como métricas fundamentales para medir el rendimiento empresarial. Ambas destacan la necesidad de que los indicadores sean específicos y medibles. No obstante, mientras Asana adopta una perspectiva más general y orientada a la gestión de proyectos, MrPeasy y Geinfor se enfocan en la aplicación industrial y en procesos de producción. Clavei (2024) complementa estas visiones con ejemplos aplicados a la gestión de inventarios, coincidiendo en la importancia de la alineación entre KPI y objetivos estratégicos. 
 
-#Bibliografía (formato APA) 
+# Bibliografía (formato APA) 
 
 Asana. (2024). Indicadores clave de rendimiento (KPI). Recuperado de https://asana.com/es/resources/key-performance-indicator-kpi 
 
