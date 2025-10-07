@@ -1,75 +1,127 @@
-# Práctica 2 en común 
+# Parte 1: El cuadrante mágico de Gartner
 
-# Parte 1: El Cuadrante Mágico de Gartner 
+## 1. Definición y utilidad
 
-## 1. Definición y utilidad 
+El **Cuadrante Mágico de Gartner** es una herramienta de análisis gráfico que evalúa el posicionamiento y la madurez de los proveedores de tecnología en un mercado específico.  
 
-El Cuadrante Mágico de Gartner es una herramienta de análisis estratégico que representa gráficamente el posicionamiento de los principales proveedores de tecnología dentro de un mercado específico. Su objetivo es ofrecer una visión comparativa de la capacidad de ejecución y la integridad de visión de cada empresa, ayudando a las organizaciones a tomar decisiones informadas sobre la selección de soluciones tecnológicas. 
+Su objetivo es proporcionar una visión clara de cómo se desempeñan las empresas en función de dos criterios principales:
 
-El modelo se estructura en cuatro cuadrantes principales: líderes, retadores, visionarios y jugadores de nicho. Cada uno se define en función de dos ejes fundamentales: 
+- **Ejecución (Eje Y)**: Mide el rendimiento actual, la calidad del producto y la viabilidad financiera.  
+- **Visión (Eje X)**: Mide la estrategia futura, la innovación y la anticipación de tendencias.  
 
-  • Ejecución (Eje Y): mide el rendimiento actual, la calidad del producto y la viabilidad financiera de la empresa. 
+Los fabricantes o proveedores se clasifican en cuatro cuadrantes:
 
-  • Visión (Eje X): evalúa la capacidad estratégica, la innovación y la anticipación de tendencias futuras. 
+- **Líderes**: Empresas con alta capacidad de ejecución y visión completa. Innovan, crecen y tienen las competencias necesarias para superar a la competencia (por ejemplo: SAP, Oracle, Microsoft).  
+- **Retadores**: Tienen gran capacidad de ejecución, pero una visión menos innovadora para el futuro.  
+- **Visionarios**: Cuentan con ideas y estrategias innovadoras, pero sin una estructura suficientemente sólida para ejecutarlas a gran escala.  
+- **Jugadores de nicho**: Se centran en un área específica, con menor capacidad de ejecución y visión limitada.
 
-Las organizaciones clasificadas como líderes destacan por su sólida capacidad de ejecución y visión integral del mercado. Los retadores cuentan con una gran capacidad operativa, pero menor orientación innovadora. Los visionarios anticipan tendencias, aunque carecen de una base operativa tan robusta. Finalmente, los jugadores de nicho se especializan en áreas muy concretas, pero sin la amplitud estratégica o capacidad de ejecución de los líderes. 
+---
 
-## 2. Aplicación al SGE 
+## 2. Aplicación al SGE
 
-En el contexto de los sistemas de gestión empresarial (SGE o ERP), Gartner publica anualmente un Cuadrante Mágico que analiza los principales proveedores del mercado. En los informes más recientes, empresas como Microsoft, SAP, Oracle y Salesforce aparecen consistentemente en el cuadrante de líderes debido a su capacidad de ofrecer soluciones completas, escalables e innovadoras. Estas compañías combinan una ejecución sólida con una visión clara del futuro del mercado digital y la nube. 
+Un cuadrante mágico reciente que incluye fabricantes de software ERP o SGE es el **Magic Quadrant for Cloud ERP for Product-Centric Enterprises (noviembre 2024)** y el **Magic Quadrant for Service-Centric Enterprises (2024)**.
 
-Por ejemplo, SAP destaca por su enfoque integral hacia el ERP en la nube, mientras que Microsoft sobresale por la integración de su ecosistema Dynamics 365 con otros servicios empresariales. Salesforce, por su parte, se posiciona como una plataforma líder en soluciones CRM y ERP orientadas a la nube, consolidando así su papel como referente en innovación. 
+En estos informes, las empresas que aparecen en la zona de líderes son:
+
+| Empresa | Tipo de ERP | Posición | Razones principales |
+|----------|--------------|-----------|----------------------|
+| **Oracle (Fusion Cloud ERP)** | Product & Service Centric | Líder | Alta capacidad de ejecución, innovación en IA y automatización financiera, cobertura funcional completa. |
+| **SAP (S/4HANA Cloud)** | Product & Service Centric | Líder | Amplia ejecución, soluciones verticales especializadas, sólida red de partners. |
+| **Microsoft (Dynamics 365)** | Service-Centric | Líder | Integración con Azure y Power BI, facilidad de adopción, fuerte orientación al cliente. |
+| **Workday** | Service-Centric | Líder | Solidez en finanzas y RRHH, visión clara hacia la automatización y la IA. |
+| **Infor CloudSuite** | Product-Centric | Líder | Enfoque en verticales industriales, ejecución global consolidada. |
+| **Epicor** | Product-Centric | Líder | Especialización en manufactura y distribución, expansión en soluciones cloud. |
+
+Estas compañías destacan por su **capacidad de ejecución**, **visión estratégica** e **innovación tecnológica**, lo que justifica su posición de liderazgo.  
+
+Salesforce y Qlik no aparecen en los cuadrantes de ERP, ya que pertenecen a los mercados de CRM y BI, respectivamente.
 
 <img width="713" height="734" alt="image" src="https://github.com/user-attachments/assets/c964c507-cb8f-4fb5-b709-64bbe0706b12" />
+---
 
-# Parte 2: Indicadores Clave de Rendimiento (KPI) 
+# Parte 2: Indicadores clave de rendimiento (KPI)
 
-## 3. Definición y función 
+## 3. Definición y función
 
-Los Indicadores Clave de Rendimiento (KPI, por sus siglas en inglés) son métricas cuantitativas diseñadas para medir el grado de cumplimiento de los objetivos estratégicos de una organización. Permiten evaluar la eficacia de los procesos, detectar áreas de mejora y apoyar la toma de decisiones basadas en datos. 
+Un **KPI (Key Performance Indicator)** es una métrica cuantitativa que muestra cómo una empresa o equipo progresa hacia sus objetivos estratégicos.  
 
-Un KPI eficaz debe ser específico, medible, alcanzable, relevante y limitado en el tiempo. Además, debe estar alineado con los objetivos estratégicos de la empresa y ofrecer información útil para ajustar las estrategias operativas. Entre sus principales funciones destacan la planificación de recursos, la medición del progreso y la evaluación del desempeño. 
+Las empresas utilizan KPI en distintos niveles: corporativo, departamental o individual.  
+Un buen KPI debe ser **específico, medible, alcanzable, relevante y limitado en el tiempo (SMART)**.
 
-En el ámbito de los sistemas ERP, los KPI son esenciales para monitorear procesos productivos y logísticos. Algunos ejemplos de KPI relevantes incluyen: 
+Los KPI permiten:
+- Evaluar si se avanza en los objetivos estratégicos.  
+- Medir la eficiencia de procesos.  
+- Facilitar la toma de decisiones basada en datos.  
+- Conectar las métricas operativas con los objetivos generales de la organización.
 
-  • Tasa de entrega a tiempo: mide el porcentaje de pedidos entregados en la fecha acordada con el cliente. 
+---
 
-  • Coste por unidad producida: calcula el coste total de producción de un producto, incluyendo mano de obra y materiales. 
+### Ejemplos de KPI aplicables a un sistema ERP
 
-  • Rotación de inventario: evalúa la frecuencia con la que se renueva el inventario en un periodo determinado. 
+| KPI | Fórmula | Qué mide |
+|------|----------|-----------|
+| **Tasa de entrega a tiempo** | (Pedidos entregados a tiempo / Pedidos totales) × 100 | Cumplimiento de fechas de entrega al cliente. |
+| **Coste por unidad producida** | (Costes totales de producción / Unidades producidas) | Eficiencia de costes de fabricación. |
+| **Rotación de inventario** | (COGS / Inventario promedio) | Frecuencia con que se renueva el inventario. |
+| **Eficiencia General del Equipo (OEE)** | Disponibilidad × Rendimiento × Calidad | Utilización efectiva de maquinaria y recursos. |
+| **Inventario en proceso (WIP)** | Productos en proceso / Total planificado | Flujo y nivel de trabajo en producción. |
+| **Tiempo de inactividad (Downtime)** | (Tiempo inactivo / Tiempo total) × 100 | Pérdidas de tiempo productivo por fallos o mantenimiento. |
+| **Tasa de rechazo o defectos** | (Unidades defectuosas / Unidades producidas) × 100 | Nivel de calidad del proceso productivo. |
 
-  • Eficiencia General del Equipo (OEE): mide la productividad total del equipo y la disponibilidad de los recursos. 
+---
 
-  • Tiempo de inactividad (Downtime): registra los periodos en los que los equipos están fuera de operación. 
+# Parte 3: Contraste de fuentes
 
-  • Inventario en proceso (WIP): analiza la cantidad de productos en producción en un momento determinado. 
+## 4. Justificación de la información
 
-# Parte 3: Contraste de fuentes 
+### Cuadrante Mágico de Gartner
 
-## 4. Justificación de la información y comparación de fuentes 
+**Fuentes utilizadas:**
+- [Gartner España – Metodología Magic Quadrant](https://www.gartner.es/es/metodologias/magic-quadrant)  
+- [Oracle ERP Cloud – Gartner 2024](https://www.oracle.com/il-en/erp/gartner-product-centric-magic-quadrant/)  
+- [SAP News – SAP líder en ERP Cloud 2024](https://news.sap.com/2024/11/sap-a-leader-2024-gartner-magic-quadrant-cloud-erp-for-service-centric-enterprises-product-centric-enterprises/)  
+- [Workday – Informe Gartner 2024](https://forms.workday.com/es-es/reports/gartner-financial-management-magic-quadrant-cloud-erp-service/form.html)  
+- [GB Advisors – Guía rápida del Cuadrante Mágico](https://www.gb-advisors.com/es/blog/cuadrante-magico-de-gartner-guia-rapida)
 
-Las fuentes utilizadas provienen de sitios oficiales, empresas tecnológicas reconocidas y plataformas especializadas en análisis empresarial. Se priorizaron documentos actualizados, emitidos por organizaciones con autoridad en el sector tecnológico. 
+**Por qué son fiables:**
+- Gartner es la fuente original de la metodología y publica informes actualizados cada año.  
+- Oracle, SAP y Workday confirman oficialmente su posición de liderazgo en comunicados recientes (2024).  
+- GB Advisors ofrece una explicación técnica clara y alineada con la definición oficial.
 
-A continuación, se justifica la fiabilidad y se realiza la comparación de fuentes por tema: 
+**Comparación de fuentes:**
+- Coinciden en los líderes (Oracle, SAP, Microsoft, Workday).  
+- Las diferencias se deben al tipo de empresa analizada (product-centric o service-centric), pero no a los criterios de evaluación.
 
-  • Cuadrante Mágico de Gartner: Las fuentes de Gartner (2024) y Oracle (2024) ofrecen información directa y actual sobre la metodología y resultados del Cuadrante Mágico. Ambas coinciden en destacar la importancia de la ejecución y la visión como criterios principales de evaluación. Sin embargo, mientras Gartner mantiene un enfoque analítico imparcial, Oracle enfatiza su propio posicionamiento como líder, mostrando una perspectiva más comercial. SAP (2024) respalda los criterios de Gartner al tiempo que resalta la innovación en la nube como tendencia clave, lo que coincide parcialmente con Oracle pero desde una visión más centrada en el producto. 
+---
 
-  • Indicadores Clave de Rendimiento (KPI): Las fuentes de Asana (2024) y MrPeasy (2024) coinciden en definir los KPI como métricas fundamentales para medir el rendimiento empresarial. Ambas destacan la necesidad de que los indicadores sean específicos y medibles. No obstante, mientras Asana adopta una perspectiva más general y orientada a la gestión de proyectos, MrPeasy y Geinfor se enfocan en la aplicación industrial y en procesos de producción. Clavei (2024) complementa estas visiones con ejemplos aplicados a la gestión de inventarios, coincidiendo en la importancia de la alineación entre KPI y objetivos estratégicos. 
+### Indicadores clave de rendimiento (KPI)
 
-# Bibliografía (formato APA) 
+**Fuentes utilizadas:**
+- [Asana – Qué son los KPI](https://asana.com/es/resources/key-performance-indicator-kpi)  
+- [MrPeasy – KPIs de gestión de inventarios](https://www.mrpeasy.com/blog/es/kpis-de-gestion-de-inventarios/)  
+- [Geinfor – KPIs de proceso de producción](https://geinfor.com/kpis-proceso-produccion/)  
+- [Clavei – Principales KPI](https://www.clavei.es/blog/principales-kpis/)
 
-Asana. (2024). Indicadores clave de rendimiento (KPI). Recuperado de https://asana.com/es/resources/key-performance-indicator-kpi 
+**Por qué son fiables:**
+- Asana es una plataforma reconocida internacionalmente en gestión empresarial.  
+- MrPeasy, Geinfor y Clavei son fuentes especializadas en ERP y producción industrial, con contenidos técnicos actualizados.  
 
-Clavei. (2024). Principales KPIs en la gestión empresarial. Recuperado de https://www.clavei.es/blog/principales-kpis/ 
+**Comparación de fuentes:**
+- Coinciden en definir los KPI como métricas medibles y estratégicas.  
+- Asana enfatiza la metodología SMART, mientras que MrPeasy, Geinfor y Clavei aportan ejemplos específicos de aplicación industrial.  
+- No existen discrepancias conceptuales, solo diferencias de enfoque (teórico vs. práctico).
 
-Gartner. (2024). Metodologías del Cuadrante Mágico. Recuperado de https://www.gartner.es/es/metodologias/magic-quadrant 
+---
 
-Geinfor. (2024). KPIs en los procesos de producción. Recuperado de https://geinfor.com/kpis-proceso-produccion/ 
+## Webgrafía
 
-MrPeasy. (2024). KPIs de gestión de inventarios. Recuperado de https://www.mrpeasy.com/blog/es/kpis-de-gestion-de-inventarios/ 
-
-Oracle. (2024). Gartner Magic Quadrant for Cloud ERP. Recuperado de https://www.oracle.com/il-en/erp/gartner-product-centric-magic-quadrant/ 
-
-SAP. (2024). SAP recognized as leader in 2024 Gartner Magic Quadrant. Recuperado de https://news.sap.com/2024/11/sap-a-leader-2024-gartner-magic-quadrant-cloud-erp/ 
-
-Workday. (2024). Gartner Magic Quadrant for Financial Management Cloud ERP. Recuperado de https://forms.workday.com/es-es/reports/gartner-financial-management-magic-quadrant-cloud-erp-service/form.html 
+- https://www.gartner.es/es/metodologias/magic-quadrant  
+- https://www.oracle.com/il-en/erp/gartner-product-centric-magic-quadrant/  
+- https://news.sap.com/2024/11/sap-a-leader-2024-gartner-magic-quadrant-cloud-erp-for-service-centric-enterprises-product-centric-enterprises/  
+- https://forms.workday.com/es-es/reports/gartner-financial-management-magic-quadrant-cloud-erp-service/form.html  
+- https://www.gb-advisors.com/es/blog/cuadrante-magico-de-gartner-guia-rapida  
+- https://asana.com/es/resources/key-performance-indicator-kpi  
+- https://www.mrpeasy.com/blog/es/kpis-de-gestion-de-inventarios/  
+- https://geinfor.com/kpis-proceso-produccion/  
+- https://www.clavei.es/blog/principales-kpis/
